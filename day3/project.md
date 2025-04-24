@@ -2,7 +2,7 @@
 
 
 **Objective**: Build a local or prompt-based AI agent that can analyze Python code, detect potential issues, suggest improvements, and act like a code reviewer.  
-No API required — works with local tools and/or browser-based GenAI.
+
 
 ---
 
